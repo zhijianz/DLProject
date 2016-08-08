@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_text_color">#000000</color>
+    <color name="content_grey">#686868</color>
+    <color name="content_pint">#FAEBD7</color>
+    <color name="list_diveder_grey">#e3e3e3 </color>
+    <color name="time_grey">#9c9c9c</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">设置</string>
+    <string name="app_name">插件化框架Demo</string>
+    <string name="dialod_loading_body">正在加载插件\u2026</string>
+    <string name="dialod_loading_title">请稍候\u2026</string>
+    <string name="loading">正在加载插件，请稍候\u2026</string>
+    <string name="pl_dir">请输入插件路径</string>
+    <string name="pl_load">加载插件</string>
+    <string name="plug_icon_desc">插件图标</string>
+</resources>

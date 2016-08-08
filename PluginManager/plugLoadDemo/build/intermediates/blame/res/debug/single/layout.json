@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\YY\\DLProjects\\PluginManager\\plugLoadDemo\\build\\intermediates\\res\\merged\\debug\\layout\\plug_item.xml",
+        "source": "E:\\YY\\DLProjects\\PluginManager\\plugLoadDemo\\src\\main\\res\\layout\\plug_item.xml"
+    },
+    {
+        "merged": "E:\\YY\\DLProjects\\PluginManager\\plugLoadDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\YY\\DLProjects\\PluginManager\\plugLoadDemo\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

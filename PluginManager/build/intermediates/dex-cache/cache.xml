@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\YY\DLProjects\PluginManager\plugLoadDemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3797c21ba70ae86556a5f5b10eddf1a16e06498">
+        <dex dex="E:\YY\DLProjects\PluginManager\plugLoadDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cfd461554ab483f8de3858ecafe28ac341dddc2c\classes.dex" />
+    </item>
+    <item
+        jar="E:\YY\DLProjects\PluginManager\plugLoadDemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea5d5fedb1942fbf27061e9e923d26c26bde0c17">
+        <dex dex="E:\YY\DLProjects\PluginManager\plugLoadDemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_27332a1a43bbd4245b6bd0de960e42a20e20c9db\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="E:\YY\DLProjects\PluginManager\plugLoadDemo\build\intermediates\exploded-aar\PluginManager\androidpluginmgr\unspecified\assets"/></dataSet><dataSet config="main"><source path="E:\YY\DLProjects\PluginManager\plugLoadDemo\src\main\assets"/><source path="E:\YY\DLProjects\PluginManager\plugLoadDemo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\YY\DLProjects\PluginManager\plugLoadDemo\src\debug\assets"/></dataSet></merger>
